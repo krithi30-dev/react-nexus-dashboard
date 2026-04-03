@@ -6,14 +6,12 @@ import Sidebar     from './components/Sidebar';
 import Navbar      from './components/Navbar';
 import StatCard    from './components/StatCard';
 import DataTable   from './components/DataTable';
-import MiniChart   from './components/MiniChart';
 
 import {
   statsData,
   tableData,
   activityData,
   quickStats,
-  miniBarData,
 } from './data/sampleData';
 
 // ── Page titles ──────────────────────────────────────────────────────────────
